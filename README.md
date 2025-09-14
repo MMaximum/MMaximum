@@ -33,7 +33,7 @@ That curiosity grew into a passion for **electronics, programming, and building 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MMaximum&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximum-YT&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMaximum&layout=compact&theme=tokyonight)  
 
 ---
 
