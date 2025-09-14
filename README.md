@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:6E48AA&height=200&section=header&text=Maximum%20Max%20%7C%20Maximum%20YT&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0099FF,100:6E48AA&height=200&section=header&text=Max%20%7C%20Maximum%20YT&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 # 👋 Hey, I'm Maximum or you can call me Max or Maximum YT 
 
