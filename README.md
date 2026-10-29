@@ -19,8 +19,8 @@ That curiosity grew into a passion for **electronics, programming, and building 
 - 💡 Learning **C++ (2024)**
 - 🪟 Build **Windows apps** for fun and productivity
 - 🎮 Create **random games on Roblox**
-- 🤖 Build and maintain **Discord bots** - including [Maximum Bot](https://maximumstudios.xyz), a moderation/automod bot running in ~27 servers
-- 🔧 Currently working on a **v4 revamp** of Maximum Bot: cross-server ticketing, native AutoMod integration, and a metrics dashboard
+- 🤖 Build and maintain **Discord bots** - including [Maximum Bot](https://maximumstudios.xyz), a moderation/automod bot running in ~28+ servers
+- 🔧 finished working on **v4 revamp** of Maximum Bot: full dashboard system, custom commands, automod system, more commands and xp system.
 
 ---
 
@@ -44,8 +44,7 @@ That curiosity grew into a passion for **electronics, programming, and building 
 
 ## 🌟 What's Next?
 
-- 🚀 Shipping the **Maximum Bot v4** revamp
-- 🕹 Expanding into more **Roblox games**
+- 🚀 Shipped the **Maximum Bot v4** revamp with full automod system.
 - 💻 Building bigger projects with **C++**
 
 ---
